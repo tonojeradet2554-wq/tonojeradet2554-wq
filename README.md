@@ -22,7 +22,6 @@ src="https://img.shields.io/github/followers/tonojeradet2554-wq?logo=github&styl
 
 ## 📊 My GitHub Stats
 <p align="left">
-  <img src="https://vercel.app" alt="tonojeradet2554-wq's GitHub stats" height="150" />
+  <img src="https://vercel.app" alt="GitHub Stats" height="150" />
   <img src="https://vercel.app" alt="Top Langs" height="150" />
 </p>
-
