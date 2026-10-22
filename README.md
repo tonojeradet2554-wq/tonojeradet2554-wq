@@ -4,7 +4,7 @@
 Student Developer , Junior cyber security , roblox dev , frontend Graphic Design
 
 
-im just an student developer, Learning is in progress
+im just a student developer, Learning is in progress
 
 <a href="https://www.github.com/tonojeradet2554-wq" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/tonojeradet2554-wq?logo=github&style=for-the-badge&color=ec4899&labelColor=000000" /></a>
