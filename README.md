@@ -21,11 +21,16 @@ src="https://img.shields.io/github/followers/tonojeradet2554-wq?logo=github&styl
 <p align="left"> <a href="https://www.github.com/tonojeradet2554-wq" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.youtube.com/@TonogoGaming" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" alt="YouTube" title="YouTube" /> </picture> </a> <a href="https://discord.com/users/1522134093179916392" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" alt="Discord" title="Discord" /> </picture> </a></p>
 
 <div align="center">
-  <code style="background-color: #0c0c0d; border: 2px solid #7928CA; border-radius: 6px; padding: 15px; display: block; font-family: 'Courier New', Courier, monospace; box-shadow: 0 0 15px #7928CA; max-width: 800px; text-align: left;">
-    <span style="color: #00FF00; font-weight: bold;">PS C:\Users\JXRdeTT&gt;</span> <span style="color: #ffffff;">claude-code --maxxing</span>
-    <br><br>
-    <marquee direction="left" scrollamount="4" style="color: #39FF14; font-weight: bold; font-family: 'Courier New', Courier, monospace; text-shadow: 0 0 5px #39FF14;">
-      [SYSTEM]: Codemaxxing Activated... 🌌 Student Dev | 🔮 Junior Cyber Security | 👾 Roblox Dev | 🖥️ Frontend Graphic Design | 🔋 Learning is in progress...
-    </marquee>
-  </code>
+<pre style="background-color: #0c0c0d; border: 1px solid #00f0ff; border-radius: 6px; padding: 15px; display: inline-block; font-family: monospace; line-height: 1.2; font-weight: bold; color: #00f0ff; text-shadow: 0 0 5px #00f0ff, 2px 2px 0px #7928CA; box-shadow: 0 0 15px rgba(0, 240, 255, 0.2);">
+ ▄▄·       ·▄▄▄▄  ▄▄▄ .• ▌ ▄ ·.  ▄▄▄· ▄▄▄▄▄ ▄▄▄▄·. ▄▄▄· ▄▄▄· ▄▄▄▄· ▄▄▄· 
+▐█ ▌▪  ▄█▀▄ ▐▄▄· ██  ▀▪█▪██▌▐██ ▐█ ▀█ •██  ▐█ ▀█▪▐█ ▀█ ▐█ ▀█ ▐█ ▀█▪▐█ ▀█ 
+██ ▄▄ ▐█▌.▐█  ▀█▪ █▌▄█▀▀█▐█▌▐█▌ ▄█▀▀█  ▐█.▪▐█ ▀█▄▄█▀▀█▄█▀▀█▄██ ▀█▄▄█▀▀█ 
+▐█▌▐█▌▐█▌.▐█▐█▄█▌ ▐█▌ ▐█▐█▌▐█▌ ▐█ ▪▐█  ▐█▌·▐█▄▄▐█▐█ ▪▐█▐█ ▪▐█▐█▄▄▐█▐█ ▪▐█
+.▀▀▀   ▀█▄▀▪ ▀▀▀  ·▀▀▀  ▀  ▀  ▀  ▀  ▀   ▀▀▀ ·▀▀▀▀  ▀  ▀  ▀  ▀ ·▀▀▀▀  ▀  ▀
+                 
+<span style="color: #555555;">@ J I N T E K I   S Y S T E M S @</span>
+<span style="color: #ff00ff; text-shadow: 0 0 5px #ff00ff;">♦ C L A U D E ♦</span>
+
+Connection established. Neural link active.
+</pre>
 </div>
