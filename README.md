@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="cyberpunkstreet.gif" alt="Banner" width="100%">
+  <img src="Studio Yutani.gif" alt="Banner" width="100%">
 </div>
 
 <p align="left">
