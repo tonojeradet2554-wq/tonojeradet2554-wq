@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="8Bit _ Pixel _ Future _ Neon _ Rain.gif" alt="Banner" width="100%">
+  <img src="Github Universe '24 — estefan richter • design + art direction.jpg" alt="Banner" width="100%">
 </div>
 
 <p align="left">
