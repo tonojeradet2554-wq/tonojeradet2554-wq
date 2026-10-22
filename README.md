@@ -28,7 +28,7 @@ src="https://img.shields.io/github/followers/tonojeradet2554-wq?logo=github&styl
 ▐█▌▐█▌▐█▌.▐█▐█▄█▌ ▐█▌ ▐█▐█▌▐█▌ ▐█ ▪▐█  ▐█▌·▐█▄▄▐█▐█ ▪▐█▐█ ▪▐█▐█▄▄▐█▐█ ▪▐█
 .▀▀▀   ▀█▄▀▪ ▀▀▀  ·▀▀▀  ▀  ▀  ▀  ▀  ▀   ▀▀▀ ·▀▀▀▀  ▀  ▀  ▀  ▀ ·▀▀▀▀  ▀  ▀
                  
-<span style="color: #555555;">@ Jxrad system@</span>
+<span style="color: #555555;">@ Jxrad system @</span>
 <span style="color: #ff00ff; text-shadow: 0 0 5px #ff00ff;">♦Codmaxxing♦</span>
 
 Connection established. Neural link active.
