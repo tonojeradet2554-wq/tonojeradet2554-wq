@@ -17,6 +17,9 @@
 im just a student developer, Learning is in progress
 
 <h3>He/Him<h3>
+
+<hr style="border: none; height: 3px; background: linear-gradient(to right, transparent, #ff0000, transparent); margin: 20px 0;" />
+
   
 # 💻 Tech Stack:
 
