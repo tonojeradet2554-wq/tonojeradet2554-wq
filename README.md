@@ -17,8 +17,6 @@
 im just a student developer, Learning is in progress
 
 <h3>He/Him<h3>
-  
-<hr style="border: none; height: 3px; background-color: #ff0000; margin: 20px 0;" />
 
 # 💻 Tech Stack:
 
