@@ -20,17 +20,12 @@ im just a student developer, Learning is in progress
 
 
 # 💻 Tech Stack:
-![C](https://shields.io) ![C#](https://shields.io) ![C++](https://shields.io) ![Lua](https://shields.io) ![Python](https://shields.io) ![Swift](https://shields.io) ![PowerShell](https://shields.io)
+![C](https://shields.io) ![C#](https://shields.io) ![C++](https://shields.io) ![HTML5](https://shields.io) ![Lua](https://shields.io) ![Python](https://shields.io) ![Swift](https://shields.io) ![PowerShell](https://shields.io)
 
-![HTML5](https://shields.io) ![Framework7](https://shields.io) ![Vercel](https://shields.io) ![Portfolio](https://shields.io)
+![Oracle](https://shields.io) ![Vercel](https://shields.io) ![Framework7](https://shields.io) ![MySQL](https://shields.io) ![Figma](https://shields.io) ![Git](https://shields.io)
 
-![Oracle](https://shields.io) ![MySQL](https://shields.io)
+![Portfolio](https://shields.io) ![Meta](https://shields.io) ![AMD](https://shields.io) ![TOR](https://shields.io) ![Steam](https://shields.io) ![CMake](https://shields.io) ![Unity](https://shields.io) ![GitHub](https://shields.io)
 
-![Git](https://shields.io) ![CMake](https://shields.io) ![GitHub](https://shields.io)
-
-![Figma](https://shields.io) ![Unity](https://shields.io)
-
-![Meta](https://shields.io) ![AMD](https://shields.io) ![TOR](https://shields.io) ![Steam](https://shields.io)
 
 <p align="left"> <a href="https://www.github.com/tonojeradet2554-wq" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.youtube.com/@TonogoGaming" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" alt="YouTube" title="YouTube" /> </picture> </a> <a href="https://discord.com/users/1522134093179916392" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" alt="Discord" title="Discord" /> </picture> </a></p>
 
