@@ -38,6 +38,18 @@ src="https://img.shields.io/github/followers/tonojeradet2554-wq?logo=github&styl
 <span style="color: #555555;">@ Jxrad system @</span>
 <span style="color: #ff00ff; text-shadow: 0 0 5px #ff00ff;">♦Codmaxxing♦</span>
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=JXRAD&fontSize=80&fontColor=ffffff&fontAlignY=35&animation=fadeIn" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Hi+I'm+JXRAD+%F0%9F%91%8B;Welcome+to+my+GitHub!;Always+learning+new+things" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" width="100%" />
+</p>
+
 Connection established. Neural link active.
 </pre>
 </div>
