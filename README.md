@@ -15,6 +15,7 @@
 <h1>Student Developer, Junior cyber security, roblox dev, frontend Graphic Design</h1>
 
 im just a student developer, Learning is in progress
+Hello you can call me jerad or jxrad im 15 years old / student now im studying highschool / (gifted computer class) , im creaating many game style in Roblox studio / i did the openCV (javis Ai) with mediapipe / I really love to design production like shirt pant anything else that can sell by art / I learning about create website / i do backend host form mySQL and oracle or linking by free domain like vercel app , i learn cyber security (osint , geospy , my kali linux tools , QGIS , stalite ,) a bit .
 
 <h3>He/Him<h3>
 
