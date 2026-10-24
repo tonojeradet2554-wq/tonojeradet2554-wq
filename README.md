@@ -14,8 +14,15 @@
 
 <h1>Student Developer, Junior cyber security, roblox dev, frontend Graphic Design</h1>
 
-im just a student developer, Learning is in progress
-Hello you can call me jerad or jxrad im 15 years old / student now im studying highschool / (gifted computer class) , im creaating many game style in Roblox studio / i did the openCV (javis Ai) with mediapipe / I really love to design production like shirt pant anything else that can sell by art / I learning about create website / i do backend host form mySQL and oracle or linking by free domain like vercel app , i learn cyber security (osint , geospy , my kali linux tools , QGIS , stalite ,) a bit .
+"Hi! I'm Jerad (or Jxrad), a 15-year-old high school student currently in a Gifted Computer program. I love learning and developing new things.
+Here is what I'm working on:
+• Game Development: Creating various game styles in Roblox Studio.
+• AI & Computer Vision: Built a Jarvis AI using OpenCV and MediaPipe.
+• Design & Merch: Designing shirts, pants, and other art merchandise for sale.
+• Web Development: Learning web development and backend hosting with MySQL and Oracle, using free domains like Vercel.
+• Cybersecurity & Tech: Exploring OSINT, GeoSpy, Kali Linux tools, QGIS, and satellite data.
+Looking forward to connecting and learning more!"
+
 
 <h3>He/Him<h3>
 
