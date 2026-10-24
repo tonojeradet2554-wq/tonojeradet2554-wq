@@ -18,12 +18,16 @@ Hi! I'm Jerad (or Jxrad), a 15-year-old high school student currently in a Gifte
 Here is what I'm working on:
 
 • Game Development: Creating various game styles in Roblox Studio.
-• AI & Computer Vision: Built a Jarvis AI using OpenCV and MediaPipe.
-• Design & Merch: Designing shirts, pants, and other art merchandise for sale.
-• Web Development: Learning web development and backend hosting with MySQL and Oracle, using free domains like Vercel.
-• Cybersecurity & Tech: Exploring OSINT, GeoSpy, Kali Linux tools, QGIS, and satellite data.
-Looking forward to connecting and learning more!"
 
+• AI & Computer Vision: Built a Jarvis AI using OpenCV and MediaPipe.
+
+• Design & Merch: Designing shirts, pants, and other art merchandise for sale.
+
+• Web Development: Learning web development and backend hosting with MySQL and Oracle, using free domains like Vercel.
+
+• Cybersecurity & Tech: Exploring OSINT, GeoSpy, Kali Linux tools, QGIS, and satellite data.
+
+Looking forward to connecting and learning more!"
 
 <h3>He/Him<h3>
 
