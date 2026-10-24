@@ -14,8 +14,9 @@
 
 <h1>Student Developer, Junior cyber security, roblox dev, frontend Graphic Design</h1>
 
-"Hi! I'm Jerad (or Jxrad), a 15-year-old high school student currently in a Gifted Computer program. I love learning and developing new things.
+Hi! I'm Jerad (or Jxrad), a 15-year-old high school student currently in a Gifted Computer program , I love learning and developing new things.
 Here is what I'm working on:
+
 • Game Development: Creating various game styles in Roblox Studio.
 • AI & Computer Vision: Built a Jarvis AI using OpenCV and MediaPipe.
 • Design & Merch: Designing shirts, pants, and other art merchandise for sale.
